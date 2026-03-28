@@ -10,7 +10,6 @@ A multimodal AI-powered assistant that speaks your language, understands your ne
 
 ---
 ## 🏆 The Great Bengaluru Hackathon  Details
-hello
 - **Event:** The Great Indian Hackathon
 - **Team Name:** Hack_Overflow
 - **Team Code:** S-8
